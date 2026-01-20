@@ -44,7 +44,7 @@ Engine-Flow-Field-Prediction/
 
 * **核心框架**: Flask (Python)
 * **深度学习**: PyTorch (实现流场特征提取与非线性映射)
-* **数据可视化**: ECharts / Matplotlib (流场云图渲染)
+* **数据可视化**: Matplotlib (流场云图渲染)
 * **数据处理**: NumPy, Pandas, Scikit-learn
 
 ## 🚀 快速开始 | Quick Start
