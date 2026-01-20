@@ -32,12 +32,12 @@ Engine-Flow-Field-Prediction/
 
 ## 📊 效果展示 | Demo
 
-### 1. 预测系统主界面
+### 预测系统主界面
 <div align="center">
-  <img src="static/images/演示图片1.png" width="70%">
-  <p>图 1：系统预测结果展示</p>
-  <img src="static/images/演示图片1.png" width="70%">
-  <p>图 1：系统预测结果展示</p>
+  <img src="static/images/演示图片1.png" width="50%">
+  <p>图 1：系统预测功能</p>
+  <img src="static/images/演示图片1.png" width="50%">
+  <p>图 2：系统模型调整功能</p>
 </div>
 
 ## 🛠️ 技术栈 | Tech Stack
